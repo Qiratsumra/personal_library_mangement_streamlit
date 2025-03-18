@@ -6,7 +6,7 @@ from datetime import datetime
 import time
 import plotly.express as px
 import plotly.graph_objects as go
-from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie # type: ignore
 import requests
 
 # set page configuration
